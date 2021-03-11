@@ -1,0 +1,16 @@
+.banner {
+  display: flex;
+}
+.banner__image {
+  max-width: 100vw;
+  mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
+
+.home_row {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100px;
+}
+.home_container {
+  margin-top: -200px;
+}

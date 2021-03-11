@@ -1,0 +1,13 @@
+.checkoutProductContainer {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.checkoutImage {
+  max-height: 100px;
+}
+
+.CheckoutProductInfo > p {
+  display: flex;
+  font-size: small;
+}

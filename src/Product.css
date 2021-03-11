@@ -1,0 +1,15 @@
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.product_image {
+  max-width: 200px;
+  object-fit: contain;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.add_button {
+  background-color: orange;
+}
